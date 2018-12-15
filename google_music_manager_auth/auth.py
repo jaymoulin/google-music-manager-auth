@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+# coding: utf8
 
 # Usage ./auth.py [path_to_oauth_cred_file=~/oauth]
 
