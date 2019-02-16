@@ -1,3 +1,7 @@
+.. image:: https://raw.githubusercontent.com/jaymoulin/google-music-manager-auth/master/logo.png
+    :alt: logo
+    :target: http://github.com/jaymoulin/google-music-manager-auth
+
 =====================================
 Google Music Manager - Authentication
 =====================================
